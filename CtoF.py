@@ -1,5 +1,5 @@
 # Celsius to Fahrenheit program
-import math
+
 def CtoF(c):
     f = (9 * c) / 5 + 32
     return f
